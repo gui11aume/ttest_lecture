@@ -1,0 +1,135 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.9.25)  7 JAN 2013 23:12
+entering extended mode
+ %&-line parsing enabled.
+**ttest.tex
+(./ttest.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks14
+\thm@bodyfont=\toks15
+\thm@headfont=\toks16
+\thm@notefont=\toks17
+\thm@headpunct=\toks18
+\thm@preskip=\skip43
+\thm@postskip=\skip44
+\thm@headsep=\skip45
+\dth@everypar=\toks19
+)
+(/usr/share/texmf/tex/latex/exercise/exercise.sty
+Package: exercise 2004/09/05 v1.1 Exercise package (P.Pichaureau)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\Exesep=\skip46
+\Exetopsep=\skip47
+\Exeparsep=\skip48
+\Exepartopsep=\skip49
+\Exeleftmargin=\skip50
+\Exerightmargin=\skip51
+\Exelabelwidth=\skip52
+\Exelabelsep=\skip53
+\ExerciseBefore=\skip54
+\QuestionBefore=\skip55
+\subQuestionBefore=\skip56
+\subsubQuestionBefore=\skip57
+\QuestionIndent=\skip58
+\subQuestionIndent=\skip59
+\subsubQuestionIndent=\skip60
+\c@Exercise=\count87
+\c@ExePart=\count88
+\c@Question=\count89
+\c@subQuestion=\count90
+\c@subsubQuestion=\count91
+\c@savedQuestion=\count92
+\c@savedsubQuestion=\count93
+\c@savedsubsubQuestion=\count94
+\@QuestionLevel=\count95
+\@Exercisebox=\box26
+\all@Exercisebox=\box27
+\temp@Exercisebox=\box28
+\all@Answerbox=\box29
+\temp@Answerbox=\box30
+\ExerciseDifficulty=\count96
+\QuestionDifficulty=\count97
+\subQuestionDifficulty=\count98
+\subsubQuestionDifficulty=\count99
+\ExePartDifficulty=\count100
+\@Answerbox=\box31
+\colonnesLevel=\count101
+\tempskipa=\skip61
+\tempskipb=\skip62
+\@savedmathindent=\skip63
+)
+(/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count102
+)
+(/usr/share/texmf/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\c@definition=\count103
+
+
+! LaTeX Error: File `Sweave.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: X
+
+ )
+(\end occurred when \ifx on line 25 was incomplete)
+(\end occurred when \ifx on line 25 was incomplete) 
+Here is how much of TeX's memory you used:
+ 1126 strings out of 256216
+ 15413 string characters out of 1917072
+ 62802 words of memory out of 1500000
+ 4473 multiletter control sequences out of 10000+200000
+ 3640 words of font info for 14 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 23i,1n,19p,222b,36s stack positions out of 5000i,500n,6000p,200000b,15000s
+
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
